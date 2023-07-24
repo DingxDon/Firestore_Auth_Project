@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesTaker</string>
+    <string name="login_here">Login Here</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG-IN</string>
+    <string name="register_here">Register Here</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered || Login Here</string>
+    <string name="no_account_create_account_here">No Account || Create Account Here</string>
+    <string name="placeholder">Placeholder</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947777985354",
+    "project_id": "fir-project-2-8d43d",
+    "storage_bucket": "fir-project-2-8d43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947777985354:android:afcd7d62dffc1a907a3fb3",
+        "android_client_info": {
+          "package_name": "com.example.notestaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947777985354-ho9ui5rneh7di5vblbqpmvdf5bc1beoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notestaker",
+            "certificate_hash": "7a1001b1879dc8cc06c0e08433709090e02e054f"
+          }
+        },
+        {
+          "client_id": "947777985354-6qe257vhporocfq9k548idspa7sc07km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcUVUM-GysfzTzT4ZNHITuAtY_xGI37Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947777985354-6qe257vhporocfq9k548idspa7sc07km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
